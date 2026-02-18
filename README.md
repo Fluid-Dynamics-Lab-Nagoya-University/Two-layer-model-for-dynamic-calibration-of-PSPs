@@ -7,3 +7,7 @@ This repository reproduces results related to the following papers:
 
 - **Frequency Response of Pressure-Sensitive Paints under Low-Pressure Conditions** — *Sensors*, Vol. 21, No. 9, Article 3187, 2021.  
   https://doi.org/10.3390/s21093187
+
+- **Development of Dynamic Calibration System for High‑Frequency Response Evaluation of Fast Pressure‑Sensitive Paint Using Cavity‑Induced Flapping Jet** — *Experiments in Fluids*, Vol. 67, Article 35, 2026.  
+  https://doi.org/10.1007/s00348-026-04188-0
+
